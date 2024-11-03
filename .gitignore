@@ -1,0 +1,8 @@
+gansenv/
+data/
+frames/
+xml_anotations/
+models/
+videos/
+yolo11x.pt
+tests/gameplay.mp4
